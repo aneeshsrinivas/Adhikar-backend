@@ -1,0 +1,7 @@
+{
+  "name": "Jansevak AI",
+  "description": "A hyper-personalized, voice-first interface empowering Indian citizens to access government welfare schemes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
