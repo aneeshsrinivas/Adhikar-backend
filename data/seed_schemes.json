@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "level": "central",
+    "state": null,
+    "category": "Farmers",
+    "eligibility": "Small and marginal farmers owning up to 2 hectares of cultivable land.",
+    "benefits": "₹6,000 per year in 3 equal installments.",
+    "apply_link": "https://pmkisan.gov.in/"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana (PMAY)",
+    "level": "central",
+    "state": null,
+    "category": "Housing",
+    "eligibility": "Economically weaker households, low-income groups, and beneficiaries without pucca houses.",
+    "benefits": "Subsidized home loans & financial support for house construction.",
+    "apply_link": "https://pmayg.nic.in/"
+  },
+  {
+    "name": "Ayushman Bharat - PMJAY",
+    "level": "central",
+    "state": null,
+    "category": "Health",
+    "eligibility": "Economically vulnerable families as per SECC data.",
+    "benefits": "₹5 lakh annual health insurance coverage.",
+    "apply_link": "https://pmjay.gov.in/"
+  },
+  {
+    "name": "Stand-Up India Scheme",
+    "level": "central",
+    "state": null,
+    "category": "Business",
+    "eligibility": "SC/ST and women entrepreneurs aged 18+ with a viable business idea.",
+    "benefits": "Loans between ₹10 lakh and ₹1 crore.",
+    "apply_link": "https://www.standupmitra.in/"
+  },
+  {
+    "name": "Pradhan Mantri Ujjwala Yojana",
+    "level": "central",
+    "state": null,
+    "category": "Women Welfare",
+    "eligibility": "Women from BPL households.",
+    "benefits": "Free LPG connection.",
+    "apply_link": "https://www.pmuy.gov.in/"
+  },
+  {
+    "name": "National Scholarship Portal (NSP)",
+    "level": "central",
+    "state": null,
+    "category": "Education",
+    "eligibility": "Students from Class 1 to PhD; income-based restrictions apply.",
+    "benefits": "Scholarships for school, college, and higher education.",
+    "apply_link": "https://scholarships.gov.in/"
+  },
+
+
+  
+
+  {
+    "name": "Gruha Lakshmi Scheme",
+    "level": "state",
+    "state": "Karnataka",
+    "category": "Women Welfare",
+    "eligibility": "Women heads of household in Karnataka.",
+    "benefits": "₹2,000 monthly financial support.",
+    "apply_link": "https://sevasindhuservices.karnataka.gov.in/"
+  },
+  {
+    "name": "Gruha Jyothi Scheme",
+    "level": "state",
+    "state": "Karnataka",
+    "category": "Electricity",
+    "eligibility": "Residential electricity consumers in Karnataka.",
+    "benefits": "Free electricity up to 200 units.",
+    "apply_link": "https://sevasindhuservices.karnataka.gov.in/"
+  },
+  {
+    "name": "Kalaignar Magalir Urimai Thogai",
+    "level": "state",
+    "state": "Tamil Nadu",
+    "category": "Women Welfare",
+    "eligibility": "Women aged 21+ from eligible families in Tamil Nadu.",
+    "benefits": "₹1,000 monthly assistance.",
+    "apply_link": "https://www.tn.gov.in/"
+  },
+  {
+    "name": "Tamil Nadu Chief Minister’s Breakfast Scheme",
+    "level": "state",
+    "state": "Tamil Nadu",
+    "category": "Education",
+    "eligibility": "Government school students (Class 1–5).",
+    "benefits": "Free nutritious breakfast.",
+    "apply_link": "https://www.tn.gov.in/"
+  },
+  {
+    "name": "Telangana Rythu Bandhu Scheme",
+    "level": "state",
+    "state": "Telangana",
+    "category": "Farmers",
+    "eligibility": "Farmers owning agricultural land.",
+    "benefits": "₹5,000 per acre per season financial support.",
+    "apply_link": "https://rythubandhu.telangana.gov.in/"
+  },
+  {
+    "name": "Aasara Pension Scheme",
+    "level": "state",
+    "state": "Telangana",
+    "category": "Pension",
+    "eligibility": "Senior citizens, widows, disabled persons, and weavers in Telangana.",
+    "benefits": "Monthly pension amounts vary by category.",
+    "apply_link": "https://www.aasara.telangana.gov.in/"
+  }
+]
